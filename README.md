@@ -13,7 +13,7 @@ Este projeto tem como objetivo facilitar a análise e correlação de artigos ci
 - **Python** para manipulação de textos e PDFs
 - **LangChain** para processamento e busca contextual
 - **FAISS (Facebook AI Similarity Search)** para indexação vetorial
-- **OpenAI GPT** para geração de respostas baseadas nos PDFs
+- **gpt-4o** para geração de respostas baseadas nos PDFs
 - **Streamlit** para criação de uma interface interativa
 
 ## Estrutura do Repositório
